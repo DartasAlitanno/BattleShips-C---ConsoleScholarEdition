@@ -1,3 +1,0 @@
-﻿  Main.cpp
-A:\CppProject\BattleShips\BattleShips\Main.cpp(1445,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  BattleShips.vcxproj -> A:\CppProject\BattleShips\Debug\BattleShips.exe
